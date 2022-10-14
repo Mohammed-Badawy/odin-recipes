@@ -12,4 +12,13 @@ This project is all about learning how to build simple website using **_html_** 
 - Use suitable semantics elements
 - Validate code
 
+We Will learn how to use **_CSS_** to style **_html_** pages.
+
+## CSS Skills
+
+- How to use different selectors
+- Use different css property:value pairs
+- How to use padding, margin and differentiate between them
+- How box model works
+
 All the recipes in this project is taken from [all recipes website](https://www.allrecipes.com/) .
