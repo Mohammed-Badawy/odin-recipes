@@ -74,3 +74,7 @@ a:active,
 a:visited {
   color: #dfd6e7;
 }
+
+li {
+  padding-bottom: 2%;
+}
