@@ -24,12 +24,20 @@ body {
   border-radius: 10px;
 }
 
-.main-heading {
+.main-heading,
+.subtitle {
   text-align: center;
-  font-size: 2rem;
   font-weight: bold;
   padding-top: 2%;
   padding-bottom: 2%;
+}
+
+.main-heading {
+  font-size: 2rem;
+}
+
+.subtitle {
+  font-size: 1.5rem;
 }
 
 .img-container {
