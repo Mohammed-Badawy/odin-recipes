@@ -59,3 +59,17 @@ img {
   padding-bottom: 5%;
   line-height: 30px;
 }
+
+a {
+  color: #f8f1ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active,
+a:visited {
+  color: #dfd6e7;
+}
